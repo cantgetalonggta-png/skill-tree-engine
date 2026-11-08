@@ -1,0 +1,183 @@
+{
+  "verify": {
+    "ok": true,
+    "stats": {
+      "nodes": 208,
+      "skills": 129,
+      "docs": 65,
+      "categories": 11,
+      "edges": 317,
+      "source_skills": 176,
+      "source_docs": 20
+    },
+    "missing_parents": [],
+    "orphan_edges": [],
+    "categories": [
+      "agent",
+      "android_re",
+      "backend",
+      "devops",
+      "frontend",
+      "general",
+      "ingestion",
+      "media",
+      "research",
+      "search",
+      "security"
+    ]
+  },
+  "out": "/workspace/artifacts/skill-tree-engine/web/data/tree.json",
+  "compact": "/workspace/artifacts/skill-tree-engine/web/data/tree-compact.json"
+}
+[
+  {
+    "id": "src-1WDTqS2UzyQj",
+    "name": "1. Install",
+    "category": "ingestion",
+    "score": 3.0
+  },
+  {
+    "id": "src-1YmOXlQRWDHq",
+    "name": "1. Install",
+    "category": "ingestion",
+    "score": 3.0
+  },
+  {
+    "id": "src-1vy8dgkHuOcB",
+    "name": "1. Install",
+    "category": "ingestion",
+    "score": 3.0
+  },
+  {
+    "id": "src-10UBOpRR91b1",
+    "name": "1Password CLI",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1WYNhILFVXJG",
+    "name": "`openclaw skills`",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1CmWHD-LN1i2",
+    "name": "Agent Skills Marketplace _ Claude, C...PDF",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1K5ArlJf__aG",
+    "name": "AgenticSkills \u2014 AI Agent Skills & 190+ MCP Servers Directory.PDF",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1N4k0NW7Xhdi",
+    "name": "Agents SDK.txt",
+    "category": "frontend",
+    "score": 3.0
+  },
+  {
+    "id": "src-1JNgaz8rfAFH",
+    "name": "AI Agent Skills \u2014 The Curated Directory _ AgenticSkills(1).PDF",
+    "category": "search",
+    "score": 3.0
+  },
+  {
+    "id": "src-18bt5DDrfNqf",
+    "name": "AI Agent Skills \u2014 The Curated Directory _ AgenticSkills.PDF",
+    "category": "search",
+    "score": 3.0
+  },
+  {
+    "id": "src-1UQlqjKkXpUs",
+    "name": "Apple Notes CLI",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1q8tEMTnwlfU",
+    "name": "Apple Reminders CLI (remindctl)",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1YvVESg5KwpG",
+    "name": "Bear Notes",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-19SovwVKexfo",
+    "name": "blucli (blu)",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1gXr2Ahj-FbU",
+    "name": "BlueBubbles Actions",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-12LWqIrG4g0-",
+    "name": "Browser Automation",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1GxYNbDueSjN",
+    "name": "Browser Automation",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1Vz5KAGD4Bdx",
+    "name": "Browser Automation",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1H4i9vcllnH9",
+    "name": "camsnap",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-17X7h4aD4T7O",
+    "name": "Canvas Skill",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1SDB6RN_znl9",
+    "name": "Canvas Skill",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1X479KSGJDEn",
+    "name": "Coding Agent (always backgrounded)",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1biIspLD7Ee8",
+    "name": "Compact your current window (HTTP call)",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1fePtSnoO0EP",
+    "name": "Configure Channel Claude Code Skill _ OpenClaw.PDF",
+    "category": "agent",
+    "score": 3.0
+  },
+  {
+    "id": "src-1Rqy3kTh8bOf",
+    "name": "Create a skill from a documentation site",
+    "category": "agent",
+    "score": 3.0
+  }
+]
